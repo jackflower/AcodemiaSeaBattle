@@ -1,6 +1,9 @@
 extends KinematicBody2D
 
 # 2019-11-09 acodemia.pl
+# Update:
+# 2024-02-15 acodemia.pl
+
 
 var torpedo_speed = 200
 var torpedo_direction = Vector2(0, -1)
